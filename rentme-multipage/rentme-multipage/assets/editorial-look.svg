@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Editorial outfit illustration</title>
+  <desc id="desc">Abstract flat illustration of a rose dress, handbag and accessories on a warm paper background.</desc>
+  <rect width="800" height="1100" fill="#d9cfc0"/>
+  <circle cx="610" cy="185" r="116" fill="#eaded0"/>
+  <path d="M120 930c92-38 112-144 95-254-14-93 10-174 82-244 36-35 74-58 111-73l53 30c-30 58-40 116-30 175l44 272c-66 51-153 87-251 102z" fill="#bd8172" opacity=".18"/>
+  <path d="M364 250c-12 43-17 80-23 108l-85 72 48 70 62-35-21 158-77 246c90 55 178 57 268 2l-73-249-24-157 63 35 48-70-86-72c-4-34-11-67-22-108z" fill="#bd8172"/>
+  <path d="M342 250c17 26 36 39 58 39s42-13 58-39l-10-58h-96z" fill="#f2d6c8"/>
+  <path d="M338 192c0-37 22-65 62-65s62 28 62 65c-21 17-42 25-62 25s-41-8-62-25z" fill="#252724"/>
+  <path d="M314 469c41 22 101 35 174 0" fill="none" stroke="#dca394" stroke-width="8" opacity=".8"/>
+  <path d="M274 877c64 22 128 23 194 1" fill="none" stroke="#8f5e54" stroke-width="6" opacity=".45"/>
+  <path d="M547 730h138l24 137c-45 27-113 27-158 0z" fill="#252724"/>
+  <path d="M567 730c8-51 91-70 108 0" fill="none" stroke="#252724" stroke-width="17"/>
+  <path d="M611 791h21" stroke="#d8b6a8" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="157" cy="220" r="9" fill="#252724"/><circle cx="188" cy="190" r="5" fill="#bd8172"/><circle cx="150" cy="182" r="5" fill="#89917f"/>
+  <path d="M659 334l13 28 31 4-23 21 6 30-27-15-27 15 6-30-23-21 31-4z" fill="#89917f" opacity=".85"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Editorial accessories illustration</title>
+  <desc id="desc">Abstract flat illustration of a handbag, sunglasses and jewelry on a pale sage background.</desc>
+  <rect width="800" height="1000" fill="#cdd2c5"/>
+  <circle cx="170" cy="170" r="126" fill="#e6e8dc"/>
+  <path d="M125 622c29-77 100-120 213-129 112-8 205 31 278 116l-65 198c-122 39-250 34-384-12z" fill="#a77567" opacity=".16"/>
+  <path d="M190 440h383l45 363c-105 62-270 63-440 0z" fill="#b88271"/>
+  <path d="M274 449c9-123 47-181 111-181s102 58 111 181" fill="none" stroke="#252724" stroke-width="25"/>
+  <path d="M252 578h260" stroke="#d9b397" stroke-width="10" opacity=".85"/>
+  <circle cx="388" cy="674" r="27" fill="#252724"/><circle cx="388" cy="674" r="9" fill="#d9b397"/>
+  <path d="M109 256c35-41 111-41 145 0v42c-34 41-110 41-145 0z" fill="#252724"/>
+  <path d="M109 277h145" stroke="#d9b397" stroke-width="9"/>
+  <path d="M128 256l-30-24M235 256l30-24" stroke="#252724" stroke-width="9" stroke-linecap="round"/>
+  <path d="M594 237c0 53-33 92-73 92s-73-39-73-92" fill="none" stroke="#252724" stroke-width="8"/>
+  <circle cx="448" cy="233" r="12" fill="#d9b397"/><circle cx="594" cy="233" r="12" fill="#d9b397"/>
+  <path d="M644 461c50 34 60 100 16 145-40 40-104 30-138-18 48 6 93-37 122-127z" fill="#89917f"/>
+  <path d="M580 603c33 29 65 32 98 17" fill="none" stroke="#252724" stroke-width="6" opacity=".55"/>
+  <path d="M128 862c20-29 41-46 63-50 22 4 43 21 63 50-42 24-84 24-126 0z" fill="#d9b397"/>
+</svg>
